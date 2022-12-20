@@ -1,5 +1,6 @@
 # My Blockchain Journey - By Joshua Peterson
 
+## Module 1
 
 ### Now I know how to use Streamlit...awesome!
 
