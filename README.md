@@ -9,3 +9,7 @@
 ### Creating a Blockchain Block with a Python Data Class
 
 A class offers a way to define a custom data structure in Python. We can use a class to store multiple variables, known as attributes when they exist in a class. Python has a special type of class, called a data class, that we can use to define and store data.
+
+The following is the output from our dataClass.py file:
+
+Block(data='My First Block', creator_id=42, timestamp='23:48:30')
