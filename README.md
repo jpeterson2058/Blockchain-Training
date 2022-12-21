@@ -19,3 +19,10 @@ Block(data='My First Block', creator_id=42, timestamp='23:48:30')
 The output or hash, from the encoded data is
 
 3be30ac34e6ec3bfed48e8cfe38b052783a2202d818bfe996e8838674fa098a5
+
+### Adding Hashing to the Block Data Class
+
+The output is:
+
+Block(data='test', creator_id=42, timestamp='00:36:00')
+7878e2834f85bd24a5e6ac7ae83556d32e77999e3cbd51f150de744e1586f23d
