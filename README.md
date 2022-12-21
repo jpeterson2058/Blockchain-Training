@@ -35,7 +35,12 @@ PyChain(chain=[Block(data='Genesis', creator_id=0, prev_hash='0', timestamp='01:
 
 ### Blockchain Application
 
-Out put from the Streamlit blockchain application
+Output from the Streamlit blockchain application
 
 ![92A43F57-2863-4497-A1DF-18CAF7CD1C2A](https://user-images.githubusercontent.com/16564975/208973094-38d9682d-4694-409c-b549-92ab6397984d.jpeg)
 
+### Dynamic Difficulty
+
+Output from the Streamlit blockchain application
+
+![58FCDED1-E15F-4398-A3C6-721930CB6F67](https://user-images.githubusercontent.com/16564975/208994581-c1f71b0e-0d7e-4702-a11a-689b174d9bdc.jpeg)
