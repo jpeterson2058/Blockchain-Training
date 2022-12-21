@@ -13,3 +13,9 @@ A class offers a way to define a custom data structure in Python. We can use a c
 The following is the output from our dataClass.py file:
 
 Block(data='My First Block', creator_id=42, timestamp='23:48:30')
+
+### Encode the Data with a Hashing Function
+
+The output or hash, from the encoded data is
+
+3be30ac34e6ec3bfed48e8cfe38b052783a2202d818bfe996e8838674fa098a5
