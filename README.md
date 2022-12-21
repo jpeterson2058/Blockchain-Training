@@ -22,7 +22,13 @@ The output or hash, from the encoded data is
 
 ### Adding Hashing to the Block Data Class
 
-The output is:
+The output from the code is:
 
 Block(data='test', creator_id=42, timestamp='00:36:00')
 7878e2834f85bd24a5e6ac7ae83556d32e77999e3cbd51f150de744e1586f23d
+
+### Chaining Blocks
+
+The output from the code is:
+
+PyChain(chain=[Block(data='Genesis', creator_id=0, prev_hash='0', timestamp='01:09:48'), Block(data='new_block', creator_id=42, prev_hash='a794451d3dc3d49c2debba2ed2f3214fffe5c09e89c760a42761f6d1f7cb03f3', timestamp='01:09:48')])
