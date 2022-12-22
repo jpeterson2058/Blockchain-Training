@@ -25,6 +25,12 @@ Decimal('1000000')
 
 ### Create an Ethereum Account
 
-Output from the createEthAcct
+Output from the createEthAcct.py
 
 'elbow scale copper retreat surface jungle ocean bright square trap wage punch'
+
+### Create an Etherum Wallet
+
+Output from generateWallet.py
+
+<bip44.wallet.Wallet at 0x7f82cbe5adc0>
