@@ -22,3 +22,9 @@ Output from ethereumTester
   warnings.warn(UserWarning(
 
 Decimal('1000000')
+
+### Create an Ethereum Account
+
+Output from the createEthAcct
+
+'elbow scale copper retreat surface jungle ocean bright square trap wage punch'
