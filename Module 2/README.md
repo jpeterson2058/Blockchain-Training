@@ -34,3 +34,9 @@ Output from the createEthAcct.py
 Output from generateWallet.py
 
 <bip44.wallet.Wallet at 0x7f82cbe5adc0>
+
+### Create a Public/Private Key in the Ethereum Account
+
+Byte string
+
+b'\xb0\xe8\x90v\x91\xcc\xbb\xbd\xb4\xd9%wH\x8a\xeb\xb6\x99\xfb\xa2\x1a\xbbv\x80Cs\xb2)\xe5\xd8\xd9\xb3\xe7'
