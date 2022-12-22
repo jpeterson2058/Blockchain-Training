@@ -44,3 +44,10 @@ Output from the Streamlit blockchain application
 Output from the Streamlit blockchain application
 
 ![58FCDED1-E15F-4398-A3C6-721930CB6F67](https://user-images.githubusercontent.com/16564975/208994581-c1f71b0e-0d7e-4702-a11a-689b174d9bdc.jpeg)
+
+### Validating the Blockchain
+
+Output from the Streamlit blockchain application
+
+![4FBC1278-9B56-4F80-9604-336F4147E0EF](https://user-images.githubusercontent.com/16564975/209204490-8fbd2196-a28d-436b-a5d8-c51fc7edbb72.jpeg)
+
