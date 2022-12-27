@@ -40,3 +40,9 @@ Output from generateWallet.py
 Byte string
 
 b'\xb0\xe8\x90v\x91\xcc\xbb\xbd\xb4\xd9%wH\x8a\xeb\xb6\x99\xfb\xa2\x1a\xbbv\x80Cs\xb2)\xe5\xd8\xd9\xb3\xe7'
+
+### Create an Ethereum account by passing the private key to the account.  Here is the private key asssociated with the account.
+
+0x9C6a38d5ab0b6BE3018187d659DdC04798147E42
+
+
