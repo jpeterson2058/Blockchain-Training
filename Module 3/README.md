@@ -17,3 +17,7 @@ Contract compiled and active
 ## Adding Getters and Setters
 
 ![6BD4A1D9-BAC2-43D6-8D7D-6EA96628EC3D_1_105_c](https://user-images.githubusercontent.com/16564975/210016680-d10e15f8-9836-4bc1-b3e6-48bf0d9715c8.jpeg)
+
+## Making Transactions in the Ethereum Blockchain
+
+![066AFB0B-CEC2-4FC5-A93A-780A44361DF8](https://user-images.githubusercontent.com/16564975/210017041-6dc17278-5df3-4ff1-8f6b-15897ee6dcad.jpeg)
