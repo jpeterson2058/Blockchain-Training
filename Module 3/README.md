@@ -9,3 +9,7 @@ Contract compiled and active
 ## Create a Customer Contract
 
 ![2133E50E-EDE4-4934-BE14-6B6CBE40F146](https://user-images.githubusercontent.com/16564975/209992264-08c5cdd8-3e1f-4fc7-9edb-4d296861207b.jpeg)
+
+## Solidity Functions
+
+![6BD4A1D9-BAC2-43D6-8D7D-6EA96628EC3D](https://user-images.githubusercontent.com/16564975/210004714-e61c23f8-c42a-4a8d-a51c-9fecf1fbf285.jpeg)
