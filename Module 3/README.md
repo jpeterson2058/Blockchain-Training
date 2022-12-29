@@ -33,3 +33,7 @@ Contract compiled and active
 ## Restricting Withdrawals and the Require Function
 
 ![AB0DDD0A-9C1A-4C38-8AA8-C418C729AC39](https://user-images.githubusercontent.com/16564975/210018161-fb5a59f3-68d1-4a8b-ac10-961633824808.jpeg)
+
+## Enforcing Contract Terms
+
+![54F63408-842F-4773-BDFF-FBAD41761C79](https://user-images.githubusercontent.com/16564975/210018597-44815d06-8c8f-4f04-ae3e-dcf791e25221.jpeg)
