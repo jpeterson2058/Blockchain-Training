@@ -13,3 +13,7 @@ Contract compiled and active
 ## Solidity Functions
 
 ![6BD4A1D9-BAC2-43D6-8D7D-6EA96628EC3D](https://user-images.githubusercontent.com/16564975/210004714-e61c23f8-c42a-4a8d-a51c-9fecf1fbf285.jpeg)
+
+## Adding Getters and Setters
+
+![6BD4A1D9-BAC2-43D6-8D7D-6EA96628EC3D_1_105_c](https://user-images.githubusercontent.com/16564975/210016680-d10e15f8-9836-4bc1-b3e6-48bf0d9715c8.jpeg)
