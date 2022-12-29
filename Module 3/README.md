@@ -21,3 +21,7 @@ Contract compiled and active
 ## Making Transactions in the Ethereum Blockchain
 
 ![066AFB0B-CEC2-4FC5-A93A-780A44361DF8](https://user-images.githubusercontent.com/16564975/210017041-6dc17278-5df3-4ff1-8f6b-15897ee6dcad.jpeg)
+
+## Implement Ether Management Functions
+
+![8FD0AC9A-3D56-49DA-A4C9-A79F804FDC86](https://user-images.githubusercontent.com/16564975/210017596-5c3734cd-ed3f-4f2e-9913-90bf0695f50a.jpeg)
