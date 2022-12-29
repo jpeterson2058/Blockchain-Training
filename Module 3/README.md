@@ -29,3 +29,7 @@ Contract compiled and active
 ## Trade Controllers
 
 ![267F012A-61B5-40B7-95B1-5215466E554D](https://user-images.githubusercontent.com/16564975/210017810-65168a86-0154-4dea-9d62-44c9ea5ee33f.jpeg)
+
+## Restricting Withdrawals and the Require Function
+
+![AB0DDD0A-9C1A-4C38-8AA8-C418C729AC39](https://user-images.githubusercontent.com/16564975/210018161-fb5a59f3-68d1-4a8b-ac10-961633824808.jpeg)
