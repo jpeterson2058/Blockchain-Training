@@ -37,3 +37,8 @@ Contract compiled and active
 ## Enforcing Contract Terms
 
 ![54F63408-842F-4773-BDFF-FBAD41761C79](https://user-images.githubusercontent.com/16564975/210018597-44815d06-8c8f-4f04-ae3e-dcf791e25221.jpeg)
+
+## Sending Remittances
+
+![0318D30F-5B3F-45E9-B8A7-C178CB5B00DD](https://user-images.githubusercontent.com/16564975/210019192-d983251b-14df-4ef3-8152-33af069bb3da.jpeg)
+
