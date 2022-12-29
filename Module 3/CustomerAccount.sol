@@ -1,11 +1,11 @@
 pragma solidity ^0.5.0;
 
 contract CustomerAccount {
-    address owner = 0xc3879B456DAA348a16B6524CBC558d2CC984722c;
-    bool isNewAccount = true;
-    uint accountBalance = 50000;
-    string customerName = "Buddy";
-    string customerLastName = "Elf";
+    address owner;
+    bool isNewAccount;
+    uint public accountBalance;
+    string customerName;
+    string customerLastName;
 
     function getInfo() view public returns(address, bool, uint, string memory, string memory) {
         return(owner, isNewAccount, accountBalance, customerName, customerLastName);
@@ -20,4 +20,15 @@ contract CustomerAccount {
         customerLastName = newCustomerLastName;
 
     }
+
+    function sendRemittance(uint amount, address payable recipient) public {
+        recipient.transfer(amount);
+        accountBalance = address(this).balance;
+    }
+
+    function deposit() public payable {
+        accountBalance = address(this).balance;
+    }
+
+    function() external payable {}
 }
