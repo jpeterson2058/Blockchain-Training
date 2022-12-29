@@ -25,3 +25,7 @@ Contract compiled and active
 ## Implement Ether Management Functions
 
 ![8FD0AC9A-3D56-49DA-A4C9-A79F804FDC86](https://user-images.githubusercontent.com/16564975/210017596-5c3734cd-ed3f-4f2e-9913-90bf0695f50a.jpeg)
+
+## Trade Controllers
+
+![267F012A-61B5-40B7-95B1-5215466E554D](https://user-images.githubusercontent.com/16564975/210017810-65168a86-0154-4dea-9d62-44c9ea5ee33f.jpeg)
