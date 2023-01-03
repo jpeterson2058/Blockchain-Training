@@ -2,4 +2,5 @@
 
 ## Building Tokens with Solidity
 
-![64B9FF9E-80B7-459F-97CE-299169B28C9B](https://user-images.githubusercontent.com/16564975/210458101-b7e292dc-92c9-46d1-b1a7-0edaf0f501e9.jpeg)
+![D3C9C5B3-5BE7-4D02-A10B-698EE33117E7](https://user-images.githubusercontent.com/16564975/210458515-51734f6e-5e22-4e4f-8449-9749ba65b6c9.jpeg)
+
