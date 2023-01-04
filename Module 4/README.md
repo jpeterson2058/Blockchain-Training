@@ -14,3 +14,6 @@ We see here that the transaction reverted to the initial state due to the SafeMa
 
 ![8E1BC6B5-F618-4518-81E9-6E3B7A67C0F0](https://user-images.githubusercontent.com/16564975/210464207-8035cd22-b589-4b60-950f-bbc09f063847.jpeg)
 
+## ERC20 Mintable Token
+
+![11C4BA5D-8A05-4DBB-880A-CBF7AEFA9037](https://user-images.githubusercontent.com/16564975/210464615-1caaf5d0-51e4-4a32-83d9-1709ef74f1f6.jpeg)
