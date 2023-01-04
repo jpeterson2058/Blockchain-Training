@@ -4,3 +4,8 @@
 
 ![81032A7B-5D7E-4D7D-A9B7-21E32294823E](https://user-images.githubusercontent.com/16564975/210459109-a1f74a4f-ad78-41f5-ad1d-d2f4d526c5db.jpeg)
 
+## Safe Math
+
+We see here that the transaction reverted to the initial state due to the SafeMath substraction overflow.
+
+![DB3B4CB0-3D36-4C2C-9C42-08D24341A37C](https://user-images.githubusercontent.com/16564975/210461046-546da964-dd1b-44ce-9d1f-03642178ba2b.jpeg)
